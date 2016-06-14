@@ -1,0 +1,16 @@
+body{
+	background-image: url('Background.jpg');
+	/*background-repeat: no-repeat;*/
+	background-attachment: all;
+	/*background-position: center;*/
+	/*background-size: cover;*/
+	background-height: 100%;
+}
+
+.container{
+	background-color: yellow;
+}
+
+#Title{
+	position: center;
+}
